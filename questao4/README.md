@@ -22,21 +22,21 @@ Imprimir 'sim' se puder obter a string t executando exatamente k operações sob
 ## Exemplos:
 
 #### Exemplo 1:
-string s: blablablabla
+  string s: blablablabla
 
-string t: blablabcde
+  string t: blablabcde
 
-número de operações: 8
+  número de operações: 8
 
 
-resultado esperado: sim
+  resultado esperado: sim
 
 
 #### Exemplo 2:
-string s: ashley
+  string s: ashley
 
-string t: ash
+  string t: ash
 
-número de operações: 2
+  número de operações: 2
 
-resultado esperado:não
+  resultado esperado:não
