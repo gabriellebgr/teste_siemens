@@ -29,13 +29,14 @@ string t: blablabcde
 número de operações: 8
 
 
-
 resultado esperado: sim
 
 
 #### Exemplo 2:
 string s: ashley
+
 string t: ash
+
 número de operações: 2
 
 resultado esperado:não
