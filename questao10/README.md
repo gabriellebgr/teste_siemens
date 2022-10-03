@@ -6,7 +6,7 @@ A questão 10 fornece uma série de comandos que permite ao usuário ler em temp
 Tenho uma  relation ABC.
 
 Qual a sequência de comandos para determinar sua estrutura?
-
+<br/>
 #### Problema #2
 
 Tenho uma relation XYZ.                          
@@ -22,7 +22,7 @@ end;
 <p>
 <br/>
 Qual a sequência de comandos para ler o primeiro e o último registro desta relation?
-
+<br/>
 #### Problema #3
 Continuando ainda com a relation XYZ
 
