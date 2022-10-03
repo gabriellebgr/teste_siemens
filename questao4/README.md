@@ -22,7 +22,7 @@ Imprimir 'sim' se puder obter a string t executando exatamente k operações sob
 ## Exemplos:
 
 #### Exemplo 1:
-  string s: blablablabla
+   string s: blablablabla
 
   string t: blablabcde
 
