@@ -20,8 +20,7 @@ XYZ =  { file (B1) of } record
   
 end;  
 
-
-
+/n 
 Qual a sequência de comandos para ler o primeiro e o último registro desta relation?
 
 #### Problema #3
