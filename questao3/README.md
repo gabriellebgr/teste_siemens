@@ -1,3 +1,7 @@
-# Teste Siemens 
+# Questão 3 
 
-O teste consiste em 12 quesões relacionadas a conhecimentos de Programação e Suporte, no qual duas questões (Questão 3 e Questão 4) envolviam implementação e o resultado das respectivas implementações deveriam ser disponibilizados em um repositório Github. Para a resolução das questões de programação foi utilizada a linguagem C++.
+A questão 3 consiste na elaboração de um programa que imprime cada número de 1 até 100 em uma nova linha, com as seguintes condições:
+
+- Para cada múltiplo de 3 ao invés do número, imprimir "Foo".
+- Para cada múltiplo de 5 ao invés do número, imprimir "Baa".
+- Para números múltiplos simultaneamente de 3 e 5 ao invés do número, imprimir "FooBaa".
