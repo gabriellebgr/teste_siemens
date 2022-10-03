@@ -18,3 +18,20 @@ A questão 4 consiste no desenvolvimento de um programa que implementa e utiliza
 
 #### Formato de Saída:
 Imprimir 'sim' se puder obter a string t executando exatamente k operações sobre a string s, e imprimir 'não' no caso contrário.
+
+## Exemplos:
+
+#### Exemplo 1:
+string s: blablablabla
+string t: blablabcde
+número de operações: 8
+
+resultado esperado: sim
+
+
+#### Exemplo 2:
+string s: ashley
+string t: ash
+número de operações: 2
+
+resultado esperado:não
