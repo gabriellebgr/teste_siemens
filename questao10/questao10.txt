@@ -1,0 +1,21 @@
+Problema #1
+1 - bq: para iniciar
+2 - rel<ABC>: para especificar qual estrutura de dados para aessar
+3 - di: para exibir a estrutura da relação identificada
+4 - x: para sair
+
+Problema #2
+1 - bq: para iniciar
+2 - rel<XYZ>: para especificar qual estrutura de dados para aessar
+3 - re f: para ler o primeiro registro
+4 - re l: para ler o último registro
+5 - x: para sair
+
+Problema #3
+1 - bq: para iniciar
+2 - rel<XYZ>: para especificar qual estrutura de dados para aessar
+3 - key<10>: para solicitar/identificar a chave a ser lida
+4 - re k: para ler o registro assoiado ao valor da chave
+5 - re n: para ler o primeiro registro
+6 - re n: para ler o segundo registro
+7 - x: para sair
