@@ -22,21 +22,14 @@ Imprimir 'sim' se puder obter a string t executando exatamente k operações sob
 ## Exemplos:
 
 #### Exemplo 1:
-   \t string s: blablablabla
-
-  string t: blablabcde
-
-  número de operações: 8
-
-
-  resultado esperado: sim
+- string s: blablablabla
+- string t: blablabcde
+- número de operações: 8
+- resultado esperado: sim
 
 
 #### Exemplo 2:
-  string s: ashley
-
-  string t: ash
-
-  número de operações: 2
-
-  resultado esperado:não
+- string s: ashley
+- string t: ash
+- número de operações: 2
+- resultado esperado:não
