@@ -1,3 +1,25 @@
-# Teste Siemens 
+# Questão 10 
 
-O teste consiste em 12 quesões relacionadas a conhecimentos de Programação e Suporte, no qual duas questões (Questão 3 e Questão 4) envolviam implementação e o resultado das respectivas implementações deveriam ser disponibilizados em um repositório Github. Para a resolução das questões de programação foi utilizada a linguagem C++.
+A questão 10 fornece uma série de comandos que permite ao usuário ler em tempo real dados persistidos em uma estrutura de dados, e pede-se a solução para os seguintes problemas:
+
+#### Problema #1
+Tenho uma  relation ABC.
+
+Qual a sequência de comandos para determinar sua estrutura?
+
+#### Problema #2
+
+Tenho uma relation XYZ.                          
+Sua estrutura está denotada abaixo:    
+
+XYZ =  { file (B1) of } record
+  B1   : integer;     { block number   B1
+  Name : Char8;       { B1 name
+end;  
+
+Qual a sequência de comandos para ler o primeiro e o último registro desta relation?
+
+#### Problema #3
+Continuando ainda com a relation XYZ
+
+Qual a sequência de comandos para ler o valor da chave 10 e os 2 registros seguintes?
