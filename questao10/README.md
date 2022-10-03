@@ -13,8 +13,11 @@ Tenho uma relation XYZ.
 Sua estrutura está denotada abaixo:    
 
 XYZ =  { file (B1) of } record
+
   B1   : integer;     { block number   B1
+  
   Name : Char8;       { B1 name
+  
 end;  
 
 Qual a sequência de comandos para ler o primeiro e o último registro desta relation?
