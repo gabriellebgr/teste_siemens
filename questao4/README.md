@@ -5,7 +5,7 @@ A questão 4 consiste no desenvolvimento de um programa que implementa e utiliza
 - t: string desejada
 - k: um número inteiro que representa o número de operações
 
-### Formato de Entrada: 
+#### Formato de Entrada: 
 - A primeira linha contêm a string s, a string inicial.
 - A segunda linha contém a string t, a string desejada.
 - A terceira linha contém um inteiro k, o número de operações.
