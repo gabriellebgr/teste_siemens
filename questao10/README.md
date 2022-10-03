@@ -7,6 +7,8 @@ Tenho uma  relation ABC.
 
 Qual a sequência de comandos para determinar sua estrutura?
 <br/>
+<br/>
+
 #### Problema #2
 
 Tenho uma relation XYZ.                          
